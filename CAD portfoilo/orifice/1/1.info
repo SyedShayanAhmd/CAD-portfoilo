@@ -1,0 +1,52 @@
+Model: Part3.SLDPRT
+Project name: Project(1)
+Config name: Default
+Project path: C:\Users\FC\Documents\cad & sim\sld\orifice\1\1.xmlconfig
+Status: Finished
+
+Number of cells:
+    Total cells: 47448
+    Fluid cells: 47448
+    Solid cells: 1248
+    Fluid cells containing solids: 1776
+
+
+Geometry preparation finished: 22:47:19
+Geometry preparation time: 00:00:07
+Solver CPU time: 00:06:51
+Iterations: 200
+Travels: 2.76224
+Physical time: 0.000000e+00 s
+Current time step: 0.000000e+00 s
+Last iteration finished: 22:53:58
+CPU time per last iteration: 00:00:01
+CPU time left: 00:00:13
+Iterations per 1 travel: 73
+
+Goals
+    Name | Unit (SI) | Value           | Progress  | Critetia        | Delta           | Use in convergence
+
+Project details
+    Default fluids: Water
+    Analysis type: External
+    Heat conduction in solids: Off
+    Radiation: Off
+    Time dependent: Off
+    Gravitational effects: Off
+    Flow type: Laminar and turbulent
+    Cavitation: Off
+    Hign Mach number flow: On
+    Free surface: Off
+    Structural: Off
+    Electromagnetism: Off
+
+System info
+    Product: Flow Simulation 2024  x64 / 6122 / SOLVER ver. efd_dev.5608_04.02.2022+HMN_Inlet_Rework_V1+HMN_Inlet_Rework_V2
+    CAD version: SOLIDWORKS 2024 SP0.1
+    Computer name: DESKTOP-N59NN79
+    User name: FC
+    Operating system: Windows 10 (Version 10.0.19045)
+    Processors: Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz
+    Number of cores: 4
+    Memory: 8842 MB / 16237 MB
+

@@ -1,0 +1,16 @@
+[StartTime]
+Sheet v1[1].step-Static 2.MFC=13s
+[SolverState]
+Sheet v1[1].step-Static 2.MFC=2
+[MainFrame]
+Sheet v1[1].step-Static 2.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEPBAAAAAHBBAAAAAMFDAAAAAKOBAAAAA
+[ShowMin]
+Sheet v1[1].step-Static 2.MFC=No
+[SolverType]
+Sheet v1[1].step-Static 2.MFC=Linear Analysis
+[StudyType]
+Sheet v1[1].step-Static 2.MFC=0
+[StudyName]
+Sheet v1[1].step-Static 2.MFC=Static 2
+[Solver]
+Sheet v1[1].step-Static 2.MFC=Sparse

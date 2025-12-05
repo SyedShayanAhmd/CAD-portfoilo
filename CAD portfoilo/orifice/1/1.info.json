@@ -1,0 +1,55 @@
+{
+    "version": 0,
+    "model_name": "Part3.SLDPRT",
+    "project_name": "Project(1)",
+    "config_name": "Default",
+    "project_path": "C:\\Users\\FC\\Documents\\cad & sim\\sld\\orifice\\1\\1.xmlconfig",
+    "finished": true,
+    "mesh": {
+        "cells_total": 47448,
+        "cells_fluid": 47448,
+        "cells_solid": 1248,
+        "cells_fluid_containing_solid": 1776
+    },
+    "telemetry": {
+        "prepare_geometry_finished": "22:47:19+0500",
+        "prepare_geometry_total_time": 7,
+        "cpu_time_solver_total": 411,
+        "iteration": 200,
+        "travel": 2.762235470768636,
+        "phys_time": 0.0,
+        "time_step": 0.0,
+        "last_iteration_finished": "22:53:58+0500",
+        "cpu_time_per_last_iter": 1,
+        "cpu_time_left": 13,
+        "iterations_per_travel": 73
+    },
+    "goals": [],
+    "settings": {
+        "default_fluids": [
+            "Water"
+        ],
+        "analysis_type": "external",
+        "heat_conduction_in_solids": false,
+        "radiation": false,
+        "time_dependent": false,
+        "gravity": false,
+        "flow_type": "laminar and turbulent",
+        "cavitation": false,
+        "high_mach_number": true,
+        "free_surface": false,
+        "structural": false,
+        "electromagnetism": false
+    },
+    "system_info": {
+        "product_name": "Flow Simulation 2024  x64 / 6122 / SOLVER ver. efd_dev.5608_04.02.2022+HMN_Inlet_Rework_V1+HMN_Inlet_Rework_V2",
+        "cad_version": "SOLIDWORKS 2024 SP0.1",
+        "computer_name": "DESKTOP-N59NN79",
+        "user_name": "FC",
+        "os": "Windows 10 (Version 10.0.19045)",
+        "cpu": "Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz",
+        "number_of_cores": 4,
+        "memory_avail": 8842,
+        "memory_total": 16237
+    }
+}
