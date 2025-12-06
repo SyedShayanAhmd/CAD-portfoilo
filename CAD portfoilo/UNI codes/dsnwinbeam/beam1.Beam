@@ -1,0 +1,6 @@
+DSNWinbeam Beam Analysis
+Fixed Support: X = 120;
+Pin Support: X = 0;
+Point Moment: X = 40; M = 40;
+Uniform Load: X = 45, 090; U = -10, -10;
+Point Load: X = 70; P = -60;

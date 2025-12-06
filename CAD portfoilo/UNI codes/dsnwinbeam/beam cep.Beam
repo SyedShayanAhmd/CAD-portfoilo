@@ -1,0 +1,9 @@
+DSNWinbeam Beam Analysis
+Title:Example 1 - Single span with off center point load - english units
+Units: X = inches; P = kips; M = kip-inch; E = ksi; I = inches^4; SpringV = kip/inch; SpringR = kip-inch/radian; SpecDefD = inches; SpecDefR = radians; Uniform = kips/inch; Shear = kips; Moment = kip-inch; Rotation = radians; Deflection = inches;
+Beam Element: Length = 120; E = 29000; I = 10.5208;
+Fixed Support: X = 0;
+Roller Support: X = 120;
+Point Moment: X = 24; M = 4.16666667;
+Point Load: X = 36; P = -8;
+Uniform Load: X = 48, 96; U = -0.166666667, -0.166666667;
